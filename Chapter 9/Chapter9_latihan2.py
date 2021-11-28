@@ -13,3 +13,4 @@ def starformation2(n):
 
 
 starformation(5)
+starformation2(4)

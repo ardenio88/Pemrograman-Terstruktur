@@ -1,4 +1,5 @@
-myfile = open('e:/listnum.txt', 'r')
+file = input('Masukkan direktori\t:)
+myfile = open(file, 'r')
 teks = myfile.readlines()
 convteks = []
 ok = []

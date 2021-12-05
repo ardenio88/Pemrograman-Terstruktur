@@ -1,5 +1,5 @@
 # variable teks dibawah optional/ dapat menggunakan input
-teks = "i think i love you y"
+teks = "i think i love you"
 hasil = []
 
 

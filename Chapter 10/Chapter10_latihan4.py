@@ -1,4 +1,5 @@
-myfile = open('e:/datamhs.txt', 'r')
+file = input('masukkan direktori\t:')
+myfile = open(file, 'r')
 teks = myfile.readlines()
 convteks = []
 datamhs = {}
